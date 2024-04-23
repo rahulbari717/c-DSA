@@ -1,11 +1,9 @@
-//This is sample Hello wolrd code ...
+// This is sample Hello wolrd code ...
 #include <iostream>
 using namespace std;
 
 int main()
 {
-  cout << "Hello World" << std::endl;
-
-    return 0;
+  cout << "Hello World" << endl;
+  return 0;
 }
-
